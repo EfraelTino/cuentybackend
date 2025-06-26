@@ -1,0 +1,10 @@
+{
+    "require": {
+        "bramus/router": "^1.6",
+        "firebase/php-jwt": "^6.11",
+        "fruitcake/laravel-cors": "^3.0",
+        "symfony/filesystem": "^7.2",
+        "endroid/qr-code": "^6.0",
+        "intervention/image": "^3.11"
+    }
+}

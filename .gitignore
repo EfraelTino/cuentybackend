@@ -1,0 +1,33 @@
+# Dependencias de Composer
+/vendor/
+
+# Archivos del entorno
+.env
+.env.*
+
+# Caché y logs
+/storage/
+*.log
+*.cache
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema de control de versiones
+*.swp
+*.swo
+
+# Archivos generados
+composer.lock
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Otros archivos innecesarios
+*.bak
+*.tmp
