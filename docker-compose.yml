@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   php_app:
-    image: easyautomates/cbackend:latest  # Usa tu imagen aquí
+    image: efdve/cbackend:latest
     networks:
       - mononet
 
