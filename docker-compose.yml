@@ -2,9 +2,7 @@ version: "3.8"
 
 services:
   php_app:
-    build: .
-    container_name: php_app
-
+    image: easyautomates/cbackend:latest  # Usa tu imagen aquí
     networks:
       - mononet
 
